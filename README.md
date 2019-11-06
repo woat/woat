@@ -5,6 +5,7 @@
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/woat)
 ![npm](https://img.shields.io/npm/v/woat)
 
-To run: ```
+To run: 
+```
 > npx woat
 ```
