@@ -1,0 +1,26 @@
+{
+  "name": "woat",
+  "version": "0.0.1",
+  "description": "the greatest package of all time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/woat/woat"
+  },
+  "keywords": [
+    "woat",
+    "is",
+    "the",
+    "best",
+    "js",
+    "dev",
+    "in",
+    "the",
+    "world"
+  ],
+  "author": "woat",
+  "license": "MIT"
+}

@@ -1,0 +1,3 @@
+# GREATEST NPM PACKAGE OF ALL TIME
+
+To run: `npx woat`
